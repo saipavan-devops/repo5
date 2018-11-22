@@ -1,2 +1,0 @@
-resolving merge conflict -  master
-resolving merge conflict - test
